@@ -1,2 +1,2 @@
-# super_stores-sales-data-analytics
-super_stores-sales-data-analytics
+# super-stores-sales-data-analytics
+super-stores-sales-data-analytics
