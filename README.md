@@ -16,5 +16,6 @@ This project showcases a Power BI dashboard with key insights:
 ![superstore_sales_dashboard-2](https://github.com/HariniMS/super-stores-sales-data-analytics/assets/49799424/73a65b7a-5b1a-44a7-9a3f-bf0007012aa0)
 
 
-LinkedIn 
+**LinkedIn** 
+
 https://www.linkedin.com/posts/harinims_super-store-sales-power-bi-dashboard-activity-7135598823573250048-G0h7?utm_source=share&utm_medium=member_desktop 
